@@ -1,5 +1,7 @@
 # FastAPI 
 
+This repository is about learning FastAPI totorial. 
+
 ## FastAPI Totorial 
 ### Setup Environment 
 ```shell
